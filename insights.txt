@@ -9,4 +9,4 @@ INSIGHTS:
 7 .The artist who has highest liveness rate is "Rleik" with 63% Live rate
 8 .The artist who has highest valence rate is "Bruno Mars" with 92% Valence rate.
 9 .The danceability rate is increasing with increasing in valence for most of the artists
-10 .The artist "Post Malone" has the highest danceability rate 
+10 .The attribute "Valence", "Acousticness" and speechiness are similar among the TOP 100 songs
