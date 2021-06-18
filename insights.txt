@@ -1,0 +1,12 @@
+INSIGHTS:
+
+1 .There are total of 100 songs, which were composed by 70 different artists in the year 2018.
+2 .There are a total of 18 artists who has composed more than one song.
+3 .The top performing artists were "Post Malone" and "XXXTENTACION" who has composed 6 songs.
+4 .The artist who has highest danceability rate is "Lil Baby" with 96% Danceability rate.
+5 .There are two types of Mode and 59 songs were in Mode "1" and 49 songs were in Mode "0".
+6 .The artist who has highest Energy rate is "Drake" with 90% Energy rate
+7 .The artist who has highest liveness rate is "Rleik" with 63% Live rate
+8 .The artist who has highest valence rate is "Bruno Mars" with 92% Valence rate.
+9 .The danceability rate is increasing with increasing in valence for most of the artists
+10 .The artist "Post Malone" has the highest danceability rate 
